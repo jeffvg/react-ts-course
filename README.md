@@ -1,3 +1,20 @@
+# Understanding React Typescript with dumb components & types
+- Basic & Advanced Props
+- Events & Styles
+- useState
+- useReducer
+- useRef
+- Context API
+- Class Component
+- Component as props
+- Generics
+- Restricting props
+- Template literal & Exclude
+- Wrapping HTML & Omit
+- Extracting component prop types
+- Polymorphic components
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

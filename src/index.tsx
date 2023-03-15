@@ -23,7 +23,7 @@ const root = ReactDOMClient.createRoot(container);
 
 root.render(
     <StyledEngineProvider injectFirst>
-        <ThemeProvider theme={createTheme(BLUIThemes.blue)}>
+        <ThemeProvider theme={createTheme(BLUIThemes.blueDark)}>
             <CssBaseline />
             <App />
         </ThemeProvider>
